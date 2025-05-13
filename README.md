@@ -14,7 +14,7 @@ Ask specific questions about transaction logs. For example, "What is the average
 ### 🧪 Simulate Policy Change
 Simulate the impact of changes in transaction policies (e.g., setting daily limits) and get predictions about the potential effects on transaction patterns.
 
-### 📄 **Document Summary
+### 📄 Document Summary
 Upload PDFs or DOCX files containing KYC or financial reports, and receive AI-generated summaries that extract key details from the documents.
 
 ### ⚠️ Risk Monitor
