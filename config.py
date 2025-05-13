@@ -1,2 +1,2 @@
-GROQ_API_KEY = "your_groq_api_key"
-LLM_MODEL = "llama-3-70b-8192"
+GROQ_API_KEY = "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"
+LLM_MODEL = "llama-3.3-70b-versatile"
