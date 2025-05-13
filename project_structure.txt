@@ -1,0 +1,16 @@
+## PROJECT STRUCTURE 
+
+project_root/
+├── app.py                          # Streamlit main app
+├── config.py                       # Config for API keys and constants
+├── utils/
+│   ├── __init__.py
+│   ├── groq_client.py              # Handles Groq LLM client interaction
+│   ├── query_executor.py           # Executes queries on data/logs
+│   ├── simulator.py                # Simulates transaction policy impact
+│   ├── doc_parser.py               # Parses and summarizes uploaded documents (PDFs, KYC, reports)
+│   ├── risk_monitor.py             # Monitors logs for risky patterns
+│   └── regulatory_qa.py            # Answers regulatory questions via RAG
+└── data/
+    ├── transaction_logs.csv        # Sample transaction logs
+    └── regulatory_docs/            # Directory of PDF/DOCs to use in RAG
