@@ -170,14 +170,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * **Streamlit** for building the user interface.
 * **PyPDF2** for parsing PDF documents.
 
-## Contact
-
-For questions or inquiries, feel free to reach out to:
-
-**Anand Vishwakarma**
-Email: [anandvishwakarma21j@gmail.com](mailto:anandvishwakarma21j@gmail.com)
-Phone: +91 7011472391
-
----
-
 Built with 💡 by **Anand Vishwakarma** | Powered by **LLaMA 3.3 via Groq**
